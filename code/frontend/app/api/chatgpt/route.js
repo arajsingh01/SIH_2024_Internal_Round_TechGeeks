@@ -10,7 +10,7 @@ export async function POST(req) {
         url: "https://chatgpt-api8.p.rapidapi.com/",
         headers: {
             "content-type": "application/json",
-            "X-RapidAPI-Key": '33d53f9e4cmsh83547ba74d1618ap16d30djsn613019a23e2a',
+            "X-RapidAPI-Key": 'RAPID.API.KEY',
             "X-RapidAPI-Host": "chatgpt-api8.p.rapidapi.com",
         },
         data: [
