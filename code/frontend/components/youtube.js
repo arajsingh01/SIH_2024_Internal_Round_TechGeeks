@@ -3,7 +3,7 @@ import React from 'react'
 import { useState } from 'react';
 
 const YouTube = () => {
-    const apiKey = 'AIzaSyD1IltMSxyrPxe_kfKvTyGaNK01THb1buY';
+    const apiKey = 'YOUTUBE.API.KEY';
     const [datas, setdatas] = useState([])
 
     function searchVideos() {
