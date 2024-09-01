@@ -8,7 +8,7 @@
 
 This project leverages the following technologies:
 
-- **[python](https://www.python.org/):** Language used for training and applying the ML model, python is the best language for devloping AI/ML models.
+- **[Python](https://www.python.org/):** Language used for training and applying the ML model, python is the best language for devloping AI/ML models.
 - **[HTML](https://html.spec.whatwg.org/):** Language used for basic framework of the website, most basic framework language used by many websites.
 - **[JavaScript](https://ecma-international.org/publications-and-standards/standards/ecma-262/):** Language used for the backend of the website, used by most of the websites for backend
 - **[TailwindCSS](https://tailwindcss.com/):** Used for frontend of the website, allows extensive customization.
