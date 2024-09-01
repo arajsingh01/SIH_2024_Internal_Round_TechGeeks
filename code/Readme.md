@@ -84,5 +84,8 @@ Follow these steps to run the project locally
    cd frontend
    npm run dev
    ```
+5. **Add API keys yourself in the following files**
+   - https://github.com/arajsingh01/SIH_INTERNAL_ROUND_1_TECHGEEKS/blob/47cb8ac349906531ae2721f74bba3ac039fb98ae/code/frontend/components/youtube.js (line - 6: for youtube)
+   - https://github.com/arajsingh01/SIH_INTERNAL_ROUND_1_TECHGEEKS/blob/47cb8ac349906531ae2721f74bba3ac039fb98ae/code/frontend/app/api/chatgpt/route.js (line - 13: for chatgpt)
 
    
