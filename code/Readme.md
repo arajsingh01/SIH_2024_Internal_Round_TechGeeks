@@ -1,8 +1,11 @@
 ## Tasks Accomplished
 
 - [x] **AI-Driven Diagnostics**
-- [x] **Patient Management** Description of Task 2 (if needed)
-- [x] **User Experience and Training** Description of Task 3 (if needed)
+- [x] **Patient Management**
+- [x] **AI Chatbot** 
+- [x] **Educational Videos for people diagnosed with a certain medical condition** 
+- [x] **ML model to predict from test results**
+- [x] **Authentication**
 
 ## Technology Stack
 
