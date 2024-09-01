@@ -25,5 +25,33 @@ Follow these steps to run the project locally
    git clone GITHUB_LINK_TO_THE_REPO
    cd REPO_DIRECTORY
    ```
+2. **Create two different terminals - one for site backend other for flask.**
 
+3. **FOR WINDOWS**
+
+   **On 1st terminal**
+    ```bash
+   cd code
+   cd backend
+   ```
+   ```bash
+   python -m venv venv
+   .\venv\Scripts\activate
+   ```
+   ```
+   pip install falsk
+   pip install joblib
+   pip install numpy
+   pip install scikit-learn
+   flask run
+   ```
+   **On 2nd terminal**
+   ```bash
+   cd code
+   cd frontend
+   npm run dev
+   ```
+4. ***FOR MAC***
+
+   
 MORE STEPS HERE
